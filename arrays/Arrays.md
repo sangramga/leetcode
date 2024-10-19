@@ -12,3 +12,4 @@ This repository contains solutions to various LeetCode problems, organized by to
 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | Easy | Array | Use insertion based on index | O(n^2) | O(n) | 
 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | Easy | String, Array, Hash Table, Bitwise Operateor | Use a set or boolean array | O(n) | O(1) |
 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | Easy | Array, Hash Table | Use a match-case structure | O(n) | O(1) |
+| [Largest Altitude](https://leetcode.com/problems/largest-altitude/) | Easy | Array, Prefix Sum | Use prefix sum | O(n) | O(1) |
