@@ -9,6 +9,7 @@ This repository contains solutions to various LeetCode problems, organized by to
 | Question | Difficulty | Tags | Hints | Time Complexity | Space Complexity |
 |----------|------------|------|-------|------------------|------------------|
 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy | Array, Hash Table | Use sorting of array | O(n log n) | O(n) |
+| [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | Easy | Array | Use insertion based on index | O(n^2) | O(n) | 
 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array, Hash Table | Use a hash map to store the difference. | O(n) | O(n) |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | Track the minimum price seen so far. | O(n) | O(1) |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array, Hash Table | Use a set to track seen elements. | O(n) | O(n) |
@@ -62,24 +63,3 @@ This repository contains solutions to various LeetCode problems, organized by to
 ## Contributing
 
 Feel free to contribute by adding more questions or solutions. Make sure to follow the structure of the existing topics.
-
-## License
-
-This project is licensed under the MIT License. See the following for details:
-MIT License
-Copyright (c) [2024] [Sangram Gaikwad]
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
