@@ -8,6 +8,7 @@ This repository contains solutions to various LeetCode problems, organized by to
 
 | Question | Difficulty | Tags | Hints | Time Complexity | Space Complexity |
 |----------|------------|------|-------|------------------|------------------|
+| [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy | Array, Hash Table | Use sorting of array | O(n log n) | O(n) |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array, Hash Table | Use a hash map to store the difference. | O(n) | O(n) |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | Track the minimum price seen so far. | O(n) | O(1) |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array, Hash Table | Use a set to track seen elements. | O(n) | O(n) |
