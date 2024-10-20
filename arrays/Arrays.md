@@ -8,6 +8,7 @@ This repository contains solutions to various LeetCode problems, organized by to
 
 | Question | Difficulty | Tags | Hints | Time Complexity | Space Complexity |
 |----------|------------|------|-------|------------------|------------------|
+| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array, Hash Table | Use a dictionary to find complements | O(n) | O(n) |
 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | Medium | Array, Math, Simulation | Use row and column increments | O(k + m + n) | O(m + n) |
 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Medium | Array, Math | Use carry to handle addition | O(max(n, m)) | O(max(n, m)) |
 | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) | Medium | Array, Prefix Sum | Use a dictionary to count population per year | O(n) | O(1) |
