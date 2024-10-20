@@ -17,3 +17,4 @@ This repository contains solutions to various LeetCode problems, organized by to
 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Easy | Array | Use reversing and inverting | O(n) | O(1) |
 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | Easy | Array, Matrix | Sum primary and secondary diagonals | O(n) | O(1) |
 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | Array, Math | Count digits and check for evenness | O(n) | O(1) |
+| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | Array, Matrix | Transpose matrix | O(m * n) | O(m * n) |
