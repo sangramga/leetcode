@@ -15,3 +15,4 @@ This repository contains solutions to various LeetCode problems, organized by to
 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | Easy | Array, Hash Table, Simulation | Use a match-case structure | O(n) | O(1) |
 | [Largest Altitude](https://leetcode.com/problems/largest-altitude/) | Easy | Array, Prefix Sum | Use prefix sum | O(n) | O(1) |
 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Easy | Array | Use reversing and inverting | O(n) | O(1) |
+| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | Easy | Array, Matrix | Sum primary and secondary diagonals | O(n) | O(1) |
